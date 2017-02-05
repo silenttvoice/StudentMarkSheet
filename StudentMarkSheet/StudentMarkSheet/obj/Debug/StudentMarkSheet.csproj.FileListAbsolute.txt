@@ -1,0 +1,30 @@
+C:\Users\som-noob\Documents\Final year Computing\Application Development\cw1\StudentMarkSheet\StudentMarkSheet\bin\Debug\StudentMarkSheet.exe.config
+C:\Users\som-noob\Documents\Final year Computing\Application Development\cw1\StudentMarkSheet\StudentMarkSheet\bin\Debug\StudentMarkSheet.exe
+C:\Users\som-noob\Documents\Final year Computing\Application Development\cw1\StudentMarkSheet\StudentMarkSheet\bin\Debug\StudentMarkSheet.pdb
+C:\Users\som-noob\Documents\Final year Computing\Application Development\cw1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.csprojResolveAssemblyReference.cache
+C:\Users\som-noob\Documents\Final year Computing\Application Development\cw1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.Form1.resources
+C:\Users\som-noob\Documents\Final year Computing\Application Development\cw1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.Properties.Resources.resources
+C:\Users\som-noob\Documents\Final year Computing\Application Development\cw1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.csproj.GenerateResource.Cache
+C:\Users\som-noob\Documents\Final year Computing\Application Development\cw1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.exe
+C:\Users\som-noob\Documents\Final year Computing\Application Development\cw1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.pdb
+E:\application development\cw1\StudentMarkSheet\StudentMarkSheet\bin\Debug\StudentMarkSheet.exe.config
+E:\application development\cw1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.exe
+E:\application development\cw1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.pdb
+E:\application development\cw1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.csprojResolveAssemblyReference.cache
+E:\application development\cw1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.Form1.resources
+E:\application development\cw1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.Properties.Resources.resources
+E:\application development\cw1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.csproj.GenerateResource.Cache
+E:\application development\cw1\StudentMarkSheet\StudentMarkSheet\bin\Debug\StudentMarkSheet.exe
+E:\application development\cw1\StudentMarkSheet\StudentMarkSheet\bin\Debug\StudentMarkSheet.pdb
+C:\Users\som-noob\Documents\Final year Computing\Application Development\Final Coursework 1\StudentMarkSheet\StudentMarkSheet\bin\Debug\StudentMarkSheet.exe.config
+C:\Users\som-noob\Documents\Final year Computing\Application Development\Final Coursework 1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.exe
+C:\Users\som-noob\Documents\Final year Computing\Application Development\Final Coursework 1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.pdb
+C:\Users\som-noob\Documents\Final year Computing\Application Development\Final Coursework 1\StudentMarkSheet\StudentMarkSheet\bin\Debug\StudentMarkSheet.exe
+C:\Users\som-noob\Documents\Final year Computing\Application Development\Final Coursework 1\StudentMarkSheet\StudentMarkSheet\bin\Debug\StudentMarkSheet.pdb
+C:\Users\som-noob\Documents\Final year Computing\Application Development\Final Coursework 1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.csprojResolveAssemblyReference.cache
+C:\Users\som-noob\Documents\Final year Computing\Application Development\Final Coursework 1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.Form1.resources
+C:\Users\som-noob\Documents\Final year Computing\Application Development\Final Coursework 1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.Properties.Resources.resources
+C:\Users\som-noob\Documents\Final year Computing\Application Development\Final Coursework 1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.csproj.GenerateResource.Cache
+C:\Users\som-noob\Documents\Final year Computing\Application Development\1st Sem\Final Coursework 1\StudentMarkSheet\StudentMarkSheet\bin\Debug\StudentMarkSheet.exe.config
+C:\Users\som-noob\Documents\Final year Computing\Application Development\1st Sem\Final Coursework 1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.exe
+C:\Users\som-noob\Documents\Final year Computing\Application Development\1st Sem\Final Coursework 1\StudentMarkSheet\StudentMarkSheet\obj\Debug\StudentMarkSheet.pdb
